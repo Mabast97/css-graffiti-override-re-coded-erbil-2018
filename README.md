@@ -6,6 +6,8 @@ In this lab, you are asked to clean the graffiti tags off the wall by making use
 
 ## Steps
 
+
+
 ## Tasks for LearnIDE Environment Users
 
 1. Click the "OPEN IDE" button
